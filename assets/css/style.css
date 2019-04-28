@@ -1,0 +1,79 @@
+
+.main-header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    border: #cccccc;
+    padding: 20px;
+}
+
+.jarvisname {
+    float: left;
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
+
+h1, p .work {
+    margin-bottom: 20px;
+    color: #777777;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+
+    
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    background: url("assets/css/images/concrete.png");
+}
+
+.main-container {
+    background-color: #666666;
+    border: #dddddd;
+
+}
+
+
+.main-footer {
+    border: #666666;
+}
+
+.images {
+   position: relative;
+   width: 250px;
+   margin: 20px 0 20px;
+   overflow: auto; 
+}
+
+#mypic {
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 15px 15px 15px 0px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #666666;
+    color: #ffffff;
+    border-top: 5px solid #4aaaa5;
+
+}
