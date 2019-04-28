@@ -221,6 +221,7 @@ input[type=submit] {
 /* Small devices (portrait tablets and large phones, 640px) */
 @media only screen and (max-width: 640px) {
     
+    
 }
 
 /* Medium devices (landscape tablets, 768px ) */
@@ -230,5 +231,8 @@ input[type=submit] {
 
 /* Large devices (laptops/desktops, 980px) */
 @media only screen and (max-width: 980px) {
+
+
+
 }
 
