@@ -220,12 +220,18 @@ input[type=submit] {
 
 /* Small devices (portrait tablets and large phones, 640px) */
 @media only screen and (max-width: 640px) {
-    
-    
+#mast-head {
+    position: static;
 }
+}
+            
+
+    
+
 
 /* Medium devices (landscape tablets, 768px ) */
 @media only screen and (max-width: 768px) {
+
     
 }
 
