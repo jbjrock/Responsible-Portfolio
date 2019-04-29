@@ -222,6 +222,10 @@ input[type=submit] {
 @media only screen and (max-width: 640px) {
 #mast-head {
     position: static;
+    
+}
+#main-container{
+    width: 100%;
 }
 }
             
@@ -232,13 +236,17 @@ input[type=submit] {
 /* Medium devices (landscape tablets, 768px ) */
 @media only screen and (max-width: 768px) {
 
-    
+    #main-container{
+        width: 100%;
+    }
 }
 
 /* Large devices (laptops/desktops, 980px) */
 @media only screen and (max-width: 980px) {
 
-
+#main-container {
+    width: 100%;
+}
 
 }
 
